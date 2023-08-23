@@ -5,8 +5,8 @@
 - 📫 How to reach me by email at loadedgunsttv@yahoo.com
 
   <h1><strong>Languages and Tools:</strong></h1>
-  <a href="https://www.w3schools.com/html/"
-<img src="https://icons-for-free.com/iconfiles/png/512/html+html5+icon-1320185152054921895.png" height="50px" width="50px">
+<a href="https://www.w3schools.com/html/">
+  <img src="https://icons-for-free.com/iconfiles/png/512/html+html5+icon-1320185152054921895.png" height="50px" width="50px">
 </a>
 
 

@@ -16,10 +16,3 @@
 <a href="https://getbootstrap.com/">
   <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="50px" width="55px">
 </a>
-
-
-
-<!---
-LoadedGuns/LoadedGuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @LoadedGuns
-- 👀 I’m interested in Learning, and expanding my experience
-- 🌱 I’m currently learning to become a Full Stack Programmer
-- 💞️ I’m looking to collaborate on anything to gain experience
+<h1><strong>👋 Hi, I’m James Sweetisr!</strong></h1>
+
+  
+- 👀 I’m interested in Learning, and expanding my experience!
+- 🌱 I’m currently learning to become a Full Stack Programmer!
+- 💞️ I’m looking to collaborate on anything to gain experience!
 - 📫 How to reach me by email at loadedgunsttv@yahoo.com
 
   <h1><strong>Languages and Tools:</strong></h1>

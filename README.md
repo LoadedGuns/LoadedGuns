@@ -17,5 +17,5 @@
   <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="50px" width="55px">
 </a>
 <a href="https://www.w3schools.com/cs/">
-  <img src="https://preview.redd.it/free-c-logos-to-use-in-your-projects-tutorials-guides-blog-v0-iajmv3o3jmea1.png" height="50px" width="50px">
+  <img src="https://imgur.com/a/yGkznAG" height="50px" width="50px">
 </a>

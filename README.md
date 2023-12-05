@@ -1,8 +1,8 @@
 <h1><strong>👋 Hi, I’m James Sweetisr!</strong></h1>
 
   
-- 👀 I’m interested in Learning, and expanding my experience as a Web and Game Developer!
-- 🌱 I’m currently learning to become a Full Stack Programmer, as well as a Unity Developer!
+- 👀 I’m interested in Learning, and expanding my experience as a Video Game Developer!
+- 🌱 I’m currently learning Python, as well as other tools to enhance my skills as a Video Game Developer!
 - 💞️ I’m looking to collaborate on anything to gain experience in any reletive field of study!
 - 📫 How to reach me by email at loadedgunsttv@yahoo.com
 

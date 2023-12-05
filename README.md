@@ -22,3 +22,6 @@
 <a href="https://www.w3schools.com/cs/">
   <img src="https://i.imgur.com/tAoNm1z.png" height="50px" width="50px">
 </a>
+<a href="https://www.w3schools.com/python/">
+  <img src="https://th.bing.com/th/id/OIP.HfmhwCHC2kbVafk1QzbdzQHaHa?rs=1&pid=ImgDetMain" height="50px" width="50px">
+</a>

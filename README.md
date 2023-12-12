@@ -14,10 +14,10 @@
   <img src="https://www.shareicon.net/data/128x128/2015/09/11/99500_css3_512x512.png" height="50px" width="50px">
 </a>
 <a href="https://getbootstrap.com/">
-  <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="50px" width="55px">
+  <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="50px" width="50px">
 </a>
 <a href="https://www.w3schools.com/js/">
-  <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-ile-twitter-retweet-uygulamas-833.png" height="50px" width="55px">
+  <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-ile-twitter-retweet-uygulamas-833.png" height="50px" width="50px">
 </a>
 <a href="https://www.w3schools.com/cs/">
   <img src="https://i.imgur.com/tAoNm1z.png" height="50px" width="50px">

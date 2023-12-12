@@ -26,5 +26,5 @@
   <img src="https://th.bing.com/th/id/OIP.HfmhwCHC2kbVafk1QzbdzQHaHa?rs=1&pid=ImgDetMain" height="50px" width="50px">
 </a>
 <a href="https://nodejs.org/en">
-  <img src="https://infinitegraphixads.com/wp-content/uploads/2021/03/Untitled-design-40.png" height="50px" width="55px">
+  <img src="https://infinitegraphixads.com/wp-content/uploads/2021/03/Untitled-design-40.png" height="50px" width="50px">
 </a>

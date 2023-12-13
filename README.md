@@ -1,4 +1,4 @@
-<h1><strong>👋 Hi, I’m James Sweetisr!</strong></h1>
+<h1><strong>👋 Hi, I’m James Sweetsir!</strong></h1>
 
   
 - 👀 I’m interested in Learning, and expanding my experience as a Video Game Developer!

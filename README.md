@@ -31,3 +31,6 @@
 <a href="https://www.w3schools.com/java/default.asp">
   <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height="50px" width="50px">
 </a>
+<a href="https://www.w3schools.com/c/index.php">
+  <img src="https://th.bing.com/th/id/OIP.-wK8kSbegCP7kdE8hVjRCQAAAA?rs=1&pid=ImgDetMain" height="50px" width="50px">
+</a>

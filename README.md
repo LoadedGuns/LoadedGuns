@@ -2,7 +2,7 @@
 
   
 - 👀 I’m interested in Learning, and expanding my experience as a Video Game Developer!
-- 🌱 I’m currently learning more in depth concepts of Computer Science and C/CPP Programming!
+- 🌱 I’m currently enrolled in a Computer Science degree program, and learning the C Language in my spare time!
 - 💞️ I’m looking to collaborate on anything to gain experience in any reletive field of study!
 - 📫 How to reach me by email at loadedgunsttv@yahoo.com
 

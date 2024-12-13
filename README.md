@@ -2,7 +2,7 @@
 
   
 - 👀 I’m interested in Learning, and expanding my experience as a Video Game Developer!
-- 🌱 I’m currently enrolled in a Computer Science degree program, and learning the C Language in my spare time!
+- 🌱 I’m currently enrolled in a B.S Software Engineering at Western Governors University, and learning the C Language in my spare time!
 - 💞️ I’m looking to collaborate on anything to gain experience in any reletive field of study!
 - 📫 How to reach me by email at loadedgunsttv@yahoo.com
 

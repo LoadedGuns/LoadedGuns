@@ -31,3 +31,6 @@
 <a href="https://www.w3schools.com/c/index.php">
   <img src="https://th.bing.com/th/id/OIP.-wK8kSbegCP7kdE8hVjRCQAAAA?rs=1&pid=ImgDetMain" height="50px" width="50px">
 </a>
+<a href="https://astro.build/">
+  <img src="https://yt3.googleusercontent.com/8aWv8A1zanF_R80egpVs-JOQ0j1yN27mPMtWjkBxe2VWTNJMLcmeCJfGMMYmubQ734C0PxsqHA=s900-c-k-c0x00ffffff-no-rj" height="50px" width="50px">
+</a>

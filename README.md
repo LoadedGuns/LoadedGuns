@@ -2,7 +2,7 @@
 
   
 - 👀 I’m interested in Learning, and expanding my experience as a Linux System Admin and OS Engineering!
-- 🌱 I’m currently working on my ALB and ALM in Extension Studies with a major focus on Computer Science and a minor focus on Mathematics at Harvard University, and learning the C/Assembly Languages in my spare time!
+- 🌱 I’m currently working on my ALB and ALM in Extension Studies with a major focus on Computer Science and a minor focus on Mathematics at Harvard University, and learning the C/Assembly Languages in my spare time! I plan to try to get into Harvard Graduate School for Art and Science for my PhD in CS/Systems Engineering!
 - 💞️ I’m looking to collaborate on anything to gain experience in any reletive field of study!
 - 📫 How to reach me by email at loadedgunsttv@yahoo.com
 
